@@ -1,2 +1,2 @@
-# Tannereat-CommandeGroup-e
+# Tannereat-CommandeGroupe
 Page Commande Groupée
